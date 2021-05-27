@@ -12,4 +12,4 @@ it _can_ be useful and is definitely a skill
 everyone _can_ learn
 
 #### Hope you have a good day!
-![Smiley Face](https://en.wikipedia.org/wiki/Smiley#/media/File:SNice.svg)
+![Smiley Face](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/1024px-SNice.svg.png)
