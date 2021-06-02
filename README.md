@@ -1,6 +1,6 @@
 ## This is the Title of a **COMPLICATED** README Example
 
-If you need to search something important, check out [Google](www.google.com)
+If you need to search something important, check out [Google](https://www.google.com/)
 
 You might need to search for:
 * Coding Tutorials
