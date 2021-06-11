@@ -62,7 +62,7 @@ class Player():
 
     def add_card(self, new_card):
 
-        if new_card.isinstance([]):
+        if isinstance(new_card, list):
 
             self.hand.extend(new_card)
 
